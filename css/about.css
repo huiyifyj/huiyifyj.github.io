@@ -3,10 +3,13 @@ html{
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
+body,html{
+  height: 100%;
+}
 body{
   margin: 0;
 }
-article,footer,{
+footer,{
   display: block;
 }
 a{
@@ -27,21 +30,11 @@ p img{
   margin: 0 auto;
   text-align: center;
 }
-
 hr{
   box-sizing: content-box;
   height: 0;
 }
-input,{
-  color: inherit;
-  font: inherit;
-  margin: 0;
-}
-body,
-html{
-  height: 100%;
-}
-a,body,div,h1,li,ol,p,ul{
+a,body,div,h1,p{
   border: 0;
   font-family: inherit;
   font-size: 100%;
@@ -52,11 +45,6 @@ a,body,div,h1,li,ol,p,ul{
   padding: 0;
   vertical-align: baseline;
 }
-input{
-  color: #3a3a3a;
-  font-family: 'Open sans',sans-serif;
-  font-size: 100%;
-  line-height: 1.5; }
 h1{
   clear: both;
   font-weight: bold;
@@ -73,18 +61,6 @@ hr{
   border-top: #d3d3d3 1px solid;
   margin: 40px 0;
   padding: 0;
-}
-ul{
-  list-style: none;
-  margin: 0;
-}
-ol{
-  list-style: decimal;
-  margin: 0;
-}
-li>ol,li>ul{
-  margin-bottom: 0;
-  margin-left: 1.5em;
 }
 img{
   height: auto;
