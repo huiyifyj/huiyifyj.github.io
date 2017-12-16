@@ -1,2 +1,2 @@
-# huiyifyj.cn
-My website.
+# huiyifyj.github.io
+My github page website.
