@@ -44,26 +44,27 @@
 						<br>
 					</div>
 				</article>
+				
+				<!-- 加入Github issue的评论 项目地址在github.com/imsun/gitment -->
+				<div id="container"></div>
+				<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+				<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+				<script>
+				var gitment = new Gitment({
+					id: 'location.href', // 可选。默认为 location.href
+					owner: 'huiyifyj',
+					repo: 'Feedback',
+					oauth: {
+						client_id: 'd165b9ccf445748015cd',
+						client_secret: '77bfddcc474ee36295a76db4cb8fc6095ce1a3e7',
+					},
+				})
+				gitment.render('container')
+				</script>
+				
 			</div>
 		</div>
 	</div>
-	
-	<!-- 加入Github issue的评论 项目地址在github.com/imsun/gitment -->
-	<div id="container"></div>
-		<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-		<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-		<script>
-			var gitment = new Gitment({
-				id: 'location.href', // 可选。默认为 location.href
-				owner: 'huiyifyj',
-				repo: 'Feedback',
-				oauth: {
-					client_id: 'd165b9ccf445748015cd',
-					client_secret: '77bfddcc474ee36295a76db4cb8fc6095ce1a3e7',
-				},
-			})
-			gitment.render('container')
-		</script>
 
 	<!-- 页脚 -->
 	<footer class="site-info">
