@@ -47,8 +47,10 @@
 				
 				<!-- 加入Github issue的评论 项目地址在github.com/imsun/gitment -->
 				<div id="container"></div>
-				<link rel="stylesheet" href="css/gitment.css"><!-- 这是评论的css设置 -->
-				<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+					<!-- 这是评论的css设置 -->
+				<link rel="stylesheet" href="css/gitment.css">
+					<!-- 如果不行的话，替换成https://imsun.github.io/gitment/dist/gitment.browser.js -->
+				<script src="js/gitment.browser.js"></script>
 				<script>
 				var gitment = new Gitment({
 					id: 'location.href', // 可选。默认为 location.href
