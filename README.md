@@ -4,6 +4,9 @@ My github page website.
 
 Just Static Page.
 
-## Copyright & License
-
-Copyright (C) 2017 HuiyiFYJ - Released under the [MIT License](https://github.com/huiyifyj/huiyifyj.github.io/blob/master/LICENSE).
+反馈👉[<img src="http://cos.huiyifyj.cn/github/Feedback.png" alt="Feedback" width="32"/>](https://huiyifyj.github.io)
+<br>
+<br>
+<div align=center>
+    © 2017 | <a href="http://huiyifyj.cn" target="_blank">回亿FYJ</a>
+</div>
