@@ -4,7 +4,12 @@ My github page website.
 
 Just Static Page.
 
-反馈👉[<img src="http://cos.huiyifyj.cn/github/Feedback.png" alt="Feedback" width="32"/>](https://huiyifyj.github.io)
+<br>
+<br>
+反馈👉
+<a href="https://huiyifyj.github.io" target="_blank">
+    <img src="http://cos.huiyifyj.cn/github/Feedback.png" alt="Feedback" width="32"/>
+</a>
 <br>
 <br>
 <div align=center>
