@@ -108,7 +108,7 @@ a:active,a:focus,a:hover{
     color: #000;
     font-weight: 700;
     text-decoration: none;
-  }
+}
 .entry-title:after{
     content: "";
     height: 2px;
