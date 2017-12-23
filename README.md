@@ -6,7 +6,7 @@ Just Static Page.
 
 <br>
 <br>
-反馈👉
+反馈
 <a href="https://huiyifyj.github.io" target="_blank">
 	<img src="http://huiyifyj.github.io/studying_college/hrefimages/mailbox.png" alt="Feedback" width="48"/>
 </a>
