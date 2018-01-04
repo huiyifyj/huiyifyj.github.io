@@ -1,4 +1,10 @@
-# huiyifyj.github.io
+<div align=center>
+    <img src="https://github.com/huiyifyj/huiyifyj.cn/blob/master/2017.12.25~/img/favicon.png" alt="Balloon" width="64"/>
+</div>
+
+---
+
+## huiyifyj.github.io
 
 My github page website.
 
