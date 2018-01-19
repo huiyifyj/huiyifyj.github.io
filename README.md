@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://github.com/huiyifyj/huiyifyj.cn/blob/master/2017.12.25~/img/favicon.png" alt="Balloon" width="64"/>
+	<img src="https://github.com/huiyifyj/huiyifyj.cn/blob/master/2017.12.25~/img/favicon.png" alt="Balloon" width="64"/>
 	<h2>huiyifyj.github.io</h2>
 </div>
 
