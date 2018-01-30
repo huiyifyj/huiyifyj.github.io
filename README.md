@@ -14,5 +14,5 @@ Redirect to [huiyifyj.cn](http://huiyifyj.cn).
 <br>
 <br>
 <div align=center>
-    &copy; 2018 &nbsp; | &nbsp; <a href="http://huiyifyj.github.io" target="_blank">回亿FYJ</a>
+    &copy; 2018 &nbsp; | &nbsp; <a href="http://huiyifyj.github.io" target="_blank">Huiyi.FYJ</a>
 </div>
