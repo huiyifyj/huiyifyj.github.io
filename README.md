@@ -3,16 +3,16 @@
 	<h2>huiyifyj.github.io</h2>
 </div>
 
-Redirect to [huiyifyj.cn](http://huiyifyj.cn).
+Redirect to [huiyifyj.cn](https://huiyifyj.cn).
 
 <br>
 <br>
 反馈
 <a href="mailto:jxfengyijie@gmail.com" target="_blank">
-	<img src="http://huiyifyj.github.io/studying_college/hrefimages/mailbox.png" alt="Feedback" width="48"/>
+	<img src="https://huiyifyj.github.io/studying_college/hrefimages/mailbox.png" alt="Feedback" width="48"/>
 </a>
 <br>
 <br>
 <div align=center>
-    &copy; 2018 &nbsp; | &nbsp; <a href="http://huiyifyj.github.io" target="_blank">Huiyi.FYJ</a>
+    &copy; 2019 &nbsp; | &nbsp; <a href="http://huiyifyj.github.io" target="_blank">Huiyi.FYJ</a>
 </div>
