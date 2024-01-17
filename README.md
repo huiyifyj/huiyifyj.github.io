@@ -9,6 +9,6 @@ Redirect to [fengyj.cn](https://fengyj.cn).
 <br>
 <div align=center>
     <sub>
-        &copy; 2023 &nbsp; | &nbsp; <a href="https://fengyj.cn" target="_blank">Feng.YJ</a>
+        &copy; 2024 &nbsp; | &nbsp; <a href="https://fengyj.cn" target="_blank">Feng.YJ</a>
     </sub>
 </div>
